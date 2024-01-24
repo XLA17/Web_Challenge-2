@@ -1,0 +1,30 @@
+/* 1270 */
+
+@media (max-width: 1270px) {
+    #overview {
+        margin-top: 200px;
+    }
+}
+
+@media (max-width: 630px) {
+    #header {
+        padding-bottom: 100px;
+    }
+
+    #overview {
+        margin-top: 700px;
+    }
+
+    #overview h2 {
+        text-align: center;
+    }
+
+    hr {
+        display: block;
+    }
+
+    #container-toggle {
+        position: static;
+        justify-content: space-between;
+    }
+}
